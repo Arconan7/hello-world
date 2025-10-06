@@ -1,2 +1,2 @@
 # hello-world
-A project for my CMPINF 0010 class. Something!
+A project for our CMPINF 0010 class. Something!
